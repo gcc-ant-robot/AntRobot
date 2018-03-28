@@ -1,3 +1,6 @@
 [My Computer]
 My Computer = "10.15.103.153"
 
+[myRIO-imaging]
+myRIO-imaging = "172.22.11.2"
+
