@@ -3082,8 +3082,10 @@ AddOutputFilter chunkFilter
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
+		<Item Name="CoerceTest.vi" Type="VI" URL="../../PreliminaryDevelopmentCode/CoerceTest.vi"/>
 		<Item Name="DistanceToTarget.vi" Type="VI" URL="../DistanceToTarget.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="RotationalPID.vi" Type="VI" URL="../RotationalPID.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
