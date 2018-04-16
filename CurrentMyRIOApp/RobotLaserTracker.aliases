@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "10.15.101.150"
+My Computer = "172.16.0.10"
 
 [myRIO-imaging USB]
 myRIO-imaging USB = "172.22.11.2"

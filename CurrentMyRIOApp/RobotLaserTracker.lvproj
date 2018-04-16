@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="CoerceTest.vi" Type="VI" URL="../../PreliminaryDevelopmentCode/CoerceTest.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -3082,10 +3083,10 @@ AddOutputFilter chunkFilter
 				<Item Name="Build Specifications" Type="Build"/>
 			</Item>
 		</Item>
-		<Item Name="CoerceTest.vi" Type="VI" URL="../../PreliminaryDevelopmentCode/CoerceTest.vi"/>
 		<Item Name="DistanceToTarget.vi" Type="VI" URL="../DistanceToTarget.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="RotationalPID.vi" Type="VI" URL="../RotationalPID.vi"/>
+		<Item Name="TranslationalPID.vi" Type="VI" URL="../TranslationalPID.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
