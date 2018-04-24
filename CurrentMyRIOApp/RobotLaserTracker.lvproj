@@ -3086,6 +3086,7 @@ AddOutputFilter chunkFilter
 		<Item Name="DistanceToTarget.vi" Type="VI" URL="../DistanceToTarget.vi"/>
 		<Item Name="InitializePWM.vi" Type="VI" URL="../InitializePWM.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="MoveRobot.vi" Type="VI" URL="../MoveRobot.vi"/>
 		<Item Name="RotationalPID.vi" Type="VI" URL="../RotationalPID.vi"/>
 		<Item Name="TranslationalPID.vi" Type="VI" URL="../TranslationalPID.vi"/>
 		<Item Name="UpdateMotors.vi" Type="VI" URL="../UpdateMotors.vi"/>
