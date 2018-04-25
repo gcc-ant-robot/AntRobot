@@ -3090,7 +3090,6 @@ AddOutputFilter chunkFilter
 		<Item Name="MoveRobot.vi" Type="VI" URL="../MoveRobot.vi"/>
 		<Item Name="RotationalPID.vi" Type="VI" URL="../RotationalPID.vi"/>
 		<Item Name="TranslationalPID.vi" Type="VI" URL="../TranslationalPID.vi"/>
-		<Item Name="UpdateMotors.vi" Type="VI" URL="../UpdateMotors.vi"/>
 		<Item Name="UpdateMotors_BulldozerDrive.vi" Type="VI" URL="../UpdateMotors_BulldozerDrive.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
