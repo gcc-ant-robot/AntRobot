@@ -3091,6 +3091,7 @@ AddOutputFilter chunkFilter
 		<Item Name="RotationalPID.vi" Type="VI" URL="../RotationalPID.vi"/>
 		<Item Name="TranslationalPID.vi" Type="VI" URL="../TranslationalPID.vi"/>
 		<Item Name="UpdateMotors_BulldozerDrive.vi" Type="VI" URL="../UpdateMotors_BulldozerDrive.vi"/>
+		<Item Name="WritePWM.vi" Type="VI" URL="../WritePWM.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
