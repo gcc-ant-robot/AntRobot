@@ -1648,21 +1648,21 @@ AddOutputFilter chunkFilter
 				<Item Name="DIO Channels List.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/DIO/typedefs/DIO Channels List.ctl"/>
 				<Item Name="DIO FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/DIO/typedefs/DIO FPGA Reference.ctl"/>
 				<Item Name="DIO.lvlib" Type="Library" URL="/&lt;vilib&gt;/myRIO/Instrument Drivers/Onboard IO/DIO/DIO.lvlib"/>
-				<Item Name="ELVIS III AI Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/AI/typedefs/ELVIS III AI Channels FPGA Reference.ctl"/>
-				<Item Name="ELVIS III DIO Bank Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO Bank Enum.ctl"/>
-				<Item Name="ELVIS III DIO Bitmask to Channel Map.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO Bitmask to Channel Map.ctl"/>
-				<Item Name="ELVIS III DIO FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO FPGA Reference.ctl"/>
-				<Item Name="ELVIS III Encoder Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/Encoder/typedefs/ELVIS III Encoder Channels FPGA Reference.ctl"/>
-				<Item Name="ELVIS III PWM Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/PWM/typedefs/ELVIS III PWM Channels FPGA Reference.ctl"/>
-				<Item Name="ELVIS III v1.0 AI Read Bank A.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 AI Read Bank A.vi"/>
-				<Item Name="ELVIS III v1.0 AI Read Bank B.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 AI Read Bank B.vi"/>
-				<Item Name="ELVIS III v1.0 Build Bitmask DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/DIO/vis/ELVIS III v1.0 Build Bitmask DIO.vi"/>
-				<Item Name="ELVIS III v1.0 Read AI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 Read AI.vi"/>
-				<Item Name="ELVIS III v1.0 Read Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/Encoder/vis/ELVIS III v1.0 Read Encoder.vi"/>
-				<Item Name="ELVIS III v1.0 Reset Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/Encoder/vis/ELVIS III v1.0 Reset Encoder.vi"/>
-				<Item Name="ELVIS III v1.0 Write DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/DIO/vis/ELVIS III v1.0 Write DIO.vi"/>
-				<Item Name="ELVIS III v1.0 Write PWM.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/PWM/vis/ELVIS III v1.0 Write PWM.vi"/>
-				<Item Name="ELVIS III v1.0 Write Read SPI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/ELVIS III v1.0/SPI/vis/ELVIS III v1.0 Write Read SPI.vi"/>
+				<Item Name="ELVIS III AI Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/AI/typedefs/ELVIS III AI Channels FPGA Reference.ctl"/>
+				<Item Name="ELVIS III DIO Bank Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO Bank Enum.ctl"/>
+				<Item Name="ELVIS III DIO Bitmask to Channel Map.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO Bitmask to Channel Map.ctl"/>
+				<Item Name="ELVIS III DIO FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/DIO/typedefs/ELVIS III DIO FPGA Reference.ctl"/>
+				<Item Name="ELVIS III Encoder Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/Encoder/typedefs/ELVIS III Encoder Channels FPGA Reference.ctl"/>
+				<Item Name="ELVIS III PWM Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/PWM/typedefs/ELVIS III PWM Channels FPGA Reference.ctl"/>
+				<Item Name="ELVIS III v1.0 AI Read Bank A.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 AI Read Bank A.vi"/>
+				<Item Name="ELVIS III v1.0 AI Read Bank B.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 AI Read Bank B.vi"/>
+				<Item Name="ELVIS III v1.0 Build Bitmask DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/DIO/vis/ELVIS III v1.0 Build Bitmask DIO.vi"/>
+				<Item Name="ELVIS III v1.0 Read AI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/AI/vis/ELVIS III v1.0 Read AI.vi"/>
+				<Item Name="ELVIS III v1.0 Read Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/Encoder/vis/ELVIS III v1.0 Read Encoder.vi"/>
+				<Item Name="ELVIS III v1.0 Reset Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/Encoder/vis/ELVIS III v1.0 Reset Encoder.vi"/>
+				<Item Name="ELVIS III v1.0 Write DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/DIO/vis/ELVIS III v1.0 Write DIO.vi"/>
+				<Item Name="ELVIS III v1.0 Write PWM.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/PWM/vis/ELVIS III v1.0 Write PWM.vi"/>
+				<Item Name="ELVIS III v1.0 Write Read SPI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/ELVIS III v1.0/SPI/vis/ELVIS III v1.0 Write Read SPI.vi"/>
 				<Item Name="Encoder Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Encoder/typedefs/Encoder Channels Enum.ctl"/>
 				<Item Name="Encoder Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Encoder/typedefs/Encoder Channels FPGA Reference.ctl"/>
 				<Item Name="Encoder Config Cache Data.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Encoder/typedefs/Encoder Config Cache Data.ctl"/>
@@ -1772,7 +1772,9 @@ AddOutputFilter chunkFilter
 				<Item Name="myRIO v1.1 PWM Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/PWM/typedefs/myRIO v1.1 PWM Channels Enum.ctl"/>
 				<Item Name="myRIO v1.1 SPI Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/SPI/typedefs/myRIO v1.1 SPI Channels Enum.ctl"/>
 				<Item Name="Named Mutex.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/typedefs/Named Mutex.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
+				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Parse Scaling Constant Table.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Parse Scaling Constant Table.vi"/>
 				<Item Name="PWM Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/PWM/typedefs/PWM Channels Enum.ctl"/>
@@ -1785,19 +1787,19 @@ AddOutputFilter chunkFilter
 				<Item Name="Ref Counter.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/vis/Ref Counter.vi"/>
 				<Item Name="Resource Manager Action Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/Utilities/typedefs/Resource Manager Action Enum.ctl"/>
 				<Item Name="roboRIO AI Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/AI/typedefs/roboRIO AI Channels FPGA Reference.ctl"/>
-				<Item Name="roboRIO DIO Bank Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO Bank Enum.ctl"/>
-				<Item Name="roboRIO DIO Bitmask to Channel Map.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO Bitmask to Channel Map.ctl"/>
-				<Item Name="roboRIO DIO FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO FPGA Reference.ctl"/>
-				<Item Name="roboRIO Encoder Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/Encoder/typedefs/roboRIO Encoder Channels FPGA Reference.ctl"/>
-				<Item Name="roboRIO I2C Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/I2C/typedefs/roboRIO I2C Channels FPGA Reference.ctl"/>
+				<Item Name="roboRIO DIO Bank Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO Bank Enum.ctl"/>
+				<Item Name="roboRIO DIO Bitmask to Channel Map.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO Bitmask to Channel Map.ctl"/>
+				<Item Name="roboRIO DIO FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/DIO/typedefs/roboRIO DIO FPGA Reference.ctl"/>
+				<Item Name="roboRIO Encoder Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/Encoder/typedefs/roboRIO Encoder Channels FPGA Reference.ctl"/>
+				<Item Name="roboRIO I2C Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/I2C/typedefs/roboRIO I2C Channels FPGA Reference.ctl"/>
 				<Item Name="roboRIO PWM Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/PWM/typedefs/roboRIO PWM Channels FPGA Reference.ctl"/>
 				<Item Name="roboRIO SPI Channels FPGA Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/SPI/typedefs/roboRIO SPI Channels FPGA Reference.ctl"/>
-				<Item Name="roboRIO v1.0 Build Bitmask DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/DIO/vis/roboRIO v1.0 Build Bitmask DIO.vi"/>
+				<Item Name="roboRIO v1.0 Build Bitmask DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/DIO/vis/roboRIO v1.0 Build Bitmask DIO.vi"/>
 				<Item Name="roboRIO v1.0 Configure I2C.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/I2C/vis/roboRIO v1.0 Configure I2C.vi"/>
 				<Item Name="roboRIO v1.0 Configure SPI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/SPI/vis/roboRIO v1.0 Configure SPI.vi"/>
 				<Item Name="roboRIO v1.0 Read AI.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/AI/vis/roboRIO v1.0 Read AI.vi"/>
 				<Item Name="roboRIO v1.0 Read Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/Encoder/vis/roboRIO v1.0 Read Encoder.vi"/>
-				<Item Name="roboRIO v1.0 Read I2C.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/I2C/vis/roboRIO v1.0 Read I2C.vi"/>
+				<Item Name="roboRIO v1.0 Read I2C.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/roboRIO v1.0/I2C/vis/roboRIO v1.0 Read I2C.vi"/>
 				<Item Name="roboRIO v1.0 Reset Encoder.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/Encoder/vis/roboRIO v1.0 Reset Encoder.vi"/>
 				<Item Name="roboRIO v1.0 Write DIO.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/DIO/vis/roboRIO v1.0 Write DIO.vi"/>
 				<Item Name="roboRIO v1.0 Write I2C.vi" Type="VI" URL="/&lt;vilib&gt;/myRIO/common/Instrument Driver Framework/roboRIO v1.0/I2C/vis/roboRIO v1.0 Write I2C.vi"/>
@@ -1829,6 +1831,7 @@ AddOutputFilter chunkFilter
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="Init.vi" Type="VI" URL="../../../antrobotFall2017/Init.vi"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
