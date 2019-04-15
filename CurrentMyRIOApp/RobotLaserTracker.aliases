@@ -1,9 +1,9 @@
 [My Computer]
-My Computer = "172.22.11.1"
+My Computer = "10.15.109.88"
 
 [myRIO-imaging USB]
 myRIO-imaging USB = "172.22.11.2"
 
 [myRIO-imaging WIFI]
-myRIO-imaging WIFI = "172.16.0.1"
+myRIO-imaging WIFI = "192.168.1.10"
 
